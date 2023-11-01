@@ -10,7 +10,7 @@ During the US holidays, the URL Shortener is expected to receive unexpected traf
 
 ## `System Diagram`
 
-CI/CD Pipeline Architecture [Link](Blitz_3_Diagram.png)
+Blitz Infrastructure Architecture [Link](Blitz_3_Diagram.png)
 
 ## `Summary`
 
